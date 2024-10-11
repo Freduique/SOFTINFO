@@ -277,17 +277,17 @@ body{
 .dvtel{
     font-size: 17px;
     font-family: 'Courier New', Courier, monospace;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .dvapel{
     font-size: 17px;
     font-family:'Times New Roman', Times, serif;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .dvadresse{
     font-size: 17px;
     font-family:'Times New Roman', Times, serif;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .dvemail{
     font-size: 17px;
@@ -328,7 +328,7 @@ body{
 .sp{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .sp:hover{
     cursor: pointer;
